@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Animated Charts App',
       theme: ThemeData(
-        primaryColor: Color(0xffff6101),
+        primaryColor: const Color(0xffff6101),
       ),
       home: HomePage(),
     );
